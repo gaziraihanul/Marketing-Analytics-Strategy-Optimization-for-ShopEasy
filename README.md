@@ -18,6 +18,14 @@ The primary goal was to conduct a comprehensive data analysis to understand the 
 
 ---
 
+<img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/7c66b8e1-65cd-4f01-96ad-595698698982" />
+
+<img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/844409f0-cc19-412f-9755-c71d9acacda1" />
+
+<img width="1284" height="720" alt="image" src="https://github.com/user-attachments/assets/53de7e40-65ac-4555-9756-30be1209e075" />
+
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/b2a0052d-d3bf-428b-9502-867da7d26ccf" />
+
 ## ⚙️ Technical Stack
 
 | Tool | Purpose |
@@ -88,6 +96,3 @@ By strategically focusing on:
 ShopEasy can expect to achieve **higher ROI**, **stronger customer loyalty**, and **improved marketing efficiency**.
 
 ---
-
-<img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/7c66b8e1-65cd-4f01-96ad-595698698982" />
-
