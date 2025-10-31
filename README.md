@@ -88,3 +88,6 @@ By strategically focusing on:
 ShopEasy can expect to achieve **higher ROI**, **stronger customer loyalty**, and **improved marketing efficiency**.
 
 ---
+
+<img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/7c66b8e1-65cd-4f01-96ad-595698698982" />
+
